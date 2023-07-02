@@ -32,4 +32,4 @@ def pre_process_images(raw_images_path):
 
 
 if __name__ == "__main__":
-    pre_process_images('')
+    pre_process_images('input/')
