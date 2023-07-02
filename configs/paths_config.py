@@ -13,7 +13,7 @@ experiments_output_dir = './output'
 
 ## Input info
 ### Input dir, where the images reside
-input_data_path = 'input_fixed'
+input_data_path = '/home/keith/src/PTI/input_fixed'
 ### Inversion identifier, used to keeping track of the inversion results. Both the latent code and the generator
 input_data_id = 'barcelona'
 
